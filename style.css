@@ -1,0 +1,30 @@
+body{
+    font-family: Calibri,sans-serif;
+    background-color: #1d1e22;
+    font-size: 30px;
+}
+div{
+    background-color: #d4d4dc;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    background-color: gray;
+    color: white;
+}
+img{
+    border-radius: 50%;
+    box-shadow: 0 0 10px black;
+}
+.fa-envelope{
+    font-size: 20px;  
+}
+.fa-instagram{
+    color: orangered;
+    font-size: 20px;
+}
